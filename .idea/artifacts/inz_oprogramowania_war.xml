@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="inz_oprogramowania:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>inz_oprogramowania</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="inz_oprogramowania-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="inz_oprogramowania:war exploded" />
+    </root>
+  </artifact>
+</component>
